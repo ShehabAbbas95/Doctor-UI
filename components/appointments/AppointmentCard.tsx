@@ -21,7 +21,6 @@ export default function AppointmentCard({
   const appointmentDate = dayjs(dateTime);
   const formattedDate = appointmentDate.format("DD/MM/YYYY");
   const formattedTime = appointmentDate.format("h:mm A");
-  console.log(dateTime, formattedDate);
   return (
     <Card className="overflow-hidden">
       <CardContent className="p-0">

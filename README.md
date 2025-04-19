@@ -90,7 +90,7 @@ npm start
 - **Styling**: Tailwind CSS
 - **UI Components**: shadcn/ui
 - **Icons**: Lucide React
-- **Date Handling**: date-fns
+- **Date Handling**: day-js
 - **Theme**: next-themes
 
 ## Project Structure
